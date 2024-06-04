@@ -1,5 +1,4 @@
 #include<stdio.h>
-
 #define mx 30
 
 int main(){
